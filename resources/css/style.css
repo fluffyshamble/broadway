@@ -27,3 +27,15 @@ h1 {
   color: White;
   background-size: cover;
 }
+
+.footer {
+  color: White;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
+
+/*.footer .btn-nav {
+  color: White;
+  font-size: 18px;
+}*/
